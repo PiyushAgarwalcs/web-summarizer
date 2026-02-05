@@ -2,6 +2,7 @@
 
 A privacy-focused Chrome extension that uses locally-hosted AI (Qwen3) to instantly summarize web pages. No cloud APIs, no data sharing - everything runs on your machine.
 
+<img width="1919" height="807" alt="image" src="https://github.com/user-attachments/assets/f65e605e-1e67-44ea-aed4-e55ecb5293d9" />
 
 ## ✨ Features
 
